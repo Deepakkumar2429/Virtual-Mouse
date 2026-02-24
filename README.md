@@ -25,3 +25,28 @@ Two rapid blinks within a defined time threshold trigger a double-click event.
 ## ⬆️⬇️ Scrolling
 Looking upward scrolls up.  
 Looking downward scrolls down.
+# 📂 Installation
+
+## 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/virtual-eye-mouse.git
+cd virtual-eye-mouse
+```
+
+## 2️⃣ Install Dependencies
+```bash
+pip install opencv-python mediapipe pyautogui
+```
+
+## 3️⃣ Run the Project
+```bash
+python main.py
+```
+
+---
+
+# 💻 Requirements
+
+- Python 3.7+
+- Webcam
+- Good lighting conditions for accurate eye detection
